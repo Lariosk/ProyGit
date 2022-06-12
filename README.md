@@ -1,3 +1,1 @@
-# ProyGit
-New peoject to do
-Proyecto de prueba
+Este es el primer proyecto que inicie en GitHub
